@@ -38,6 +38,13 @@ a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, d
 .container-YkUktl {
     height: auto;
 }
+.jumpToPresentBar-1cEnH0 {
+    bottom: 0;
+    border-radius: 0;
+    background-color: var(--green);
+    opacity: 1;
+    padding-bottom: 8px;
+}
 .theme-dark .scroller-WSmht3 {
     background: var(--black);
 }
