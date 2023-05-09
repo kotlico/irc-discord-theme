@@ -30,7 +30,16 @@ a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, d
     display: none;
 }
 .modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ {
-    background-color: var(--blue);
+    background-color: var(--black);
+}
+.theme-dark .container-YkUktl {
+    background: var(--red);
+}
+.container-YkUktl {
+    height: auto;
+}
+.theme-dark .scroller-WSmht3 {
+    background: var(--black);
 }
 .content-1gYQeQ {
      padding: 0px;
