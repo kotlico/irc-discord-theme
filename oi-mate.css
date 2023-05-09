@@ -17,7 +17,7 @@
     --bright-white: #e0e0e0;
 }
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
-* {font-family: 'Inconsolata', monospace !important;}
+body {font-family: 'Inconsolata', monospace !important;}
 .chatContent-3KubbW {
     background-color: var(--black) !important;
 }
