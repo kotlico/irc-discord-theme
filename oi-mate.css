@@ -1,3 +1,21 @@
+:root {
+    --black: #000000;
+    --blue: #0000ff;
+    --green: #00ff00;
+    --aqua: #00ffff;
+    --red: #ff0000;
+    --purple: #800080;
+    --yellow: #ffff00;
+    --white: #ffffff;
+    --gray: #808080;
+    --light-blue: #add8e6;
+    --light-green: #90ee90;
+    --light-aqua: #85f1ff;
+    --light-red: #fd7b7b;
+    --light-purple: #bb5abb;
+    --light-yellow: #ffffe0;
+    --bright-white: #e0e0e0;
+}
 .chatContent-3KubbW {
-    background-color: black !important;
+    background-color: var(--black) !important;
 }
