@@ -19,3 +19,16 @@
 .chatContent-3KubbW {
     background-color: var(--black) !important;
 }
+.avatarStack-3Bjmsl {
+    display: none;
+}
+.form-3gdLxP {
+    padding-left: 0;
+    padding-right: 0;
+}
+.channelTextArea-1FufC0 {
+    margin-bottom: 0;
+}
+.scrollableContainer-15eg7h {
+    background: var(--black);
+}
