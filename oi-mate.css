@@ -19,6 +19,10 @@
 .chatContent-3KubbW {
     background-color: var(--black) !important;
 }
+.theme-dark .themed-Hp1KC_ {
+    background: var(--blue);
+    height: auto;
+}
 .avatarStack-3Bjmsl {
     display: none;
 }
@@ -31,4 +35,11 @@
 }
 .scrollableContainer-15eg7h {
     background: var(--black);
+}
+.iconContainer-21RCa3 {
+    display: none;
+}
+.backdrop-2ByYRN {
+    background: var(--blue);
+    opacity: 1;
 }
